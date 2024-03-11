@@ -1,6 +1,0 @@
----
-title: "CV"
-format: html
----
-<a href="cv-bio.pdf" target="_blank" class="btn">"Bio and CV in PDF"</a>
-
