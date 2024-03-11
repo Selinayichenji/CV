@@ -1,9 +1,7 @@
 ---
 title: "Yichen Ji"
-output: vitae::hyndman
+format: pdf
 ---
-
-_If you would like to download my bio and CV, please click the CV bottom above._
 
 # About
 
@@ -23,7 +21,8 @@ If you are interested in my academic background or any collaborative opportuniti
 
 **Major in Economics, Minor in Statistics and Mathematics, University of Toronto(St.George Campus)**  
 27 King's College Circle, Toronto, Ontario M5S 1A1 Canada    
-   - Email: [yic.ji@mail.utoronto.ca](mailto:yic.ji@mail.utoronto.ca)    
+   - Email: [yic.ji@mail.utoronto.ca](mailto:yic.ji@mail.utoronto.ca)   
+   - Phone: +1 4162199488
    - Website: [rohanalexander.com](https://rohanalexander.com)      
 
 ## Education
@@ -80,5 +79,3 @@ If you are interested in my academic background or any collaborative opportuniti
 - Time management skills with a track record of meeting deadlines
 - Experience in coordinating and leading project teams
 - Ability to manage multiple tasks and priorities in a fast-paced environment
-
-
